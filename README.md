@@ -29,7 +29,7 @@ E adicionar a linha abaixo:
 
 ## Changelog
 
-#### Versão 1.0.0 *(2019-03-30)*
+#### Versão 1.0.0 *(2023-03-30)*
 
 - Versão inicial.
 
